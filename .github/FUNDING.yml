@@ -1,0 +1,15 @@
+# Są to wspierane platformy modeli finansowania
+
+github: # Zastąp maksymalnie 4 nazwami użytkowników obsługującymi sponsorów GitHub, np. [user1, user2]
+patreon: # Zastąp pojedynczą nazwą użytkowniką Patreon
+otwórz_kolektyw: # Zastąp pojedynczą nazwą użytkownika Open Collective
+ko_fi: # Zastąp pojedynczą nazwą użytkowniką Ko-fi
+podnoszenie: # Zastąp pojedynczą nazwą platformy/nazwą pakietu Tidelift, np. npm/babel
+wićksość_społecznościowy: # Most spolnieszczyowy Zastąp pojedynczić nazwć projekt, np. odlewnia chmur
+liberapay: # Zastąp pojedynczą nazwą użytkownika Liberapay
+problem Poszukiego: # Zastąp pojedynczą nazwą użytkownika IssueHunt
+lfx_crowdfunding: # Zastąp pojedynczą nazwą projekt LFX Crowdfunding, np. odlewnia chmur
+polarny: # Zastąp pojedynczą nazwą użytkowniką Polar
+kup_ja_a_kawę: # Zastąp pojedynczą nazwą użytkownikę Kup mi kawą
+dzięki_dev: # Zastąp pojedynczą nazwą użytkownika dzięki.dev
+niestandardowy: # Zastąp maksymalnie 4 niestandardowymi adresami URL sponsorowana, np. ['link1', 'link2']
